@@ -5,7 +5,7 @@
 Hello and welcome to this repository which documents the structure and nature of generally-accepted Executive Compensation practices. 
 
 The motivation is to:
-1. Educate the audience on **how and why** executives are compensated as they are
+1. Educate the audience on **how and why executives are compensated** as they are
 2. Explore the causal nature governing the many ways **incentives can and will motivate behavior**
 3. Enumerate specific instances of **unintended consequences** that may arise from well-intentioned compensation practices
 
@@ -14,8 +14,8 @@ The motivation is to:
 ### [Pay Components](https://github.com/sfreagin/follow_the_money/tree/main/Pay_components)
 * [Salary](https://github.com/sfreagin/follow_the_money/blob/main/Pay_components/1_Salary.ipynb)
 * [Cash incentive (performance bonus)](https://github.com/sfreagin/follow_the_money/blob/main/Pay_components/2_PerformanceBonus.ipynb)
-* [Cash bonus (non-performance)](https://github.com/sfreagin/follow_the_money/blob/main/Pay_components/4_OtherBonus.ipynb)
 * [Equity awards](https://github.com/sfreagin/follow_the_money/blob/main/Pay_components/3_EquityAwards.ipynb)
+* [Cash bonus (non-performance)](https://github.com/sfreagin/follow_the_money/blob/main/Pay_components/4_OtherBonus.ipynb)
 * [Benefits](https://github.com/sfreagin/follow_the_money/blob/main/Pay_components/5_Benefits.ipynb)
 * [Measures of total pay](https://github.com/sfreagin/follow_the_money/blob/main/Pay_components/6_MeasuringTotalPay.ipynb)
     * Total Target Compensation
