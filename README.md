@@ -2,7 +2,7 @@
 
 ## Notes on Executive Compensation
 
-Hello, and welcome to this repository which documents the structure and nature of generally-accepted Executive Compensation practices. 
+Hello and welcome to this repository which documents the structure and nature of generally-accepted Executive Compensation practices. 
 
 The motivation is to:
 1. Educate the audience on **how and why** executives are compensated as they are
