@@ -1,0 +1,121 @@
+id,cik,ticker,name,position,year,salary,bonus,stockAwards,optionAwards,nonEquityIncentiveCompensation,changeInPensionValueAndDeferredEarnings,otherCompensation,total
+fddf23770454ac325c12769270d674ec,50863,INTC,Gregory M. Bryant,"Former EVP and GM, CCG",2021,750000,0,7662900,0,1877100,0.0,142500,10432500
+8555ae6a6e4642257be351d484c0e785,50863,INTC,Navin Shenoy,"Former EVP and GM, DPG",2021,4,0,8378000,0,63200,0.0,2203800,11095800
+6726e69a2a6da19426fdcce3697a0c5a,50863,INTC,Sandra L. Rivera,"EVP and GM, DCAI",2021,2,1000000,6130200,0,1813300,0.0,130200,9798100
+fc645a6362d8aab0f88ae873dd51f11f,50863,INTC,George S. Davis,"Former EVP, CFO and PAO",2021,3,1000000,6641200,0,2315400,0.0,43400,10925000
+59a150e93d91da81dfc1b0bac65446da,50863,INTC,Patrick P. Gelsinger,CEO,2021,1,1750000,140433000,29108400,5113900,685000.0,401600,178590400
+1c5b06ca0b92b76df6bf565aa14ee6b1,50863,INTC,Steven R. Rodgers,Former EVP and GC,2021,850000,0,6539000,0,2313700,0.0,739900,10442600
+9c014a29888c03aa03b1da92056b87f7,50863,INTC,Robert H. Swan,Former CEO,2021,5,0,0,0,0,0.0,449000,605300
+53eaaabf217770876648dc7fe2dfc01b,50863,INTC,George S. Davis,Executive Vice President Chief Financial Officer,2020,900000,1000000,7088100,0,1632500,,157400,10778000
+8ee8dae4ffd8eeaec233f0c818813c58,50863,INTC,Navin Shenoy,"Executive Vice President General Manager, Data Platforms Group",2020,850000,0,8941700,0,1541800,,164500,11514000
+eaac1d01e0eba71c86e6cc491f2b1a5e,50863,INTC,Venkata S.M. Renduchintala,"Former Executive Vice President Group President, Technology, Systems Architecture and Client Group, and Chief Engineering Officer",2020,620900,0,8723600,0,95800,,2637600,12077900
+d252bd3424e20883a440225d944dda85,50863,INTC,Robert H. Swan,Former Chief Executive Officer,2020,1250000,0,16902000,0,3696700,,540800,22389500
+0285a3683ef1256fa95f5cb16ccda83e,50863,INTC,Steven R. Rodgers,Executive Vice President and General Counsel,2020,833000,0,6979000,0,1640900,,860300,10360200
+bd89992bb3d25cc01a361b4497f3f1e5,50863,INTC,Gregory M. Bryant,"Executive Vice President General Manager, Client Computing Group",2020,686800,0,7633400,0,1359000,,65400,9750600
+8f6593cf4f4a4172be9e11e1cd81656e,50863,INTC,Gregory M. Bryant,"Executive Vice President General Manager, Client Computing Group",2019,635900,0,9127800,2542500,1249100,,198300,13771600
+a7a96a501f9d9f551fd586811728920e,50863,INTC,George Davis,Executive Vice President Chief Financial Officer,2019,668200,2000000,24993900,0,1274000,,283000,29219100
+e3a39c9a2e5d093fd24b561c284a0eb8,50863,INTC,Steven R. Rodgers,Executive Vice President and General Counsel,2019,833000,0,6122000,0,1703300,,1076300,9788600
+53b7afa01bda82f7214793864baa9b0e,50863,INTC,Venkata S.M. Renduchintala,"Former Executive Vice President Group President, Technology, Systems Architecture and Client Group, and Chief Engineering Officer",2019,1056800,0,15197400,6780000,2768400,,1082800,26885400
+9dba74d788a3d33f34ef552e3b912814,50863,INTC,Robert H. Swan,Former Chief Executive Officer,2019,1227300,0,44622600,17100000,3682100,,303100,66935100
+137a46b59a5234cfa9c2db97bd19fea5,50863,INTC,Todd Underwood,"Corporate Vice President Chief Financial Officer, Client Computing Group Former Interim Chief Financial Officer",2019,375300,0,5516100,0,416000,,45700,6428100
+31a68fc7c18f52164a96ebe9ff883fe9,50863,INTC,George S. Davis,Executive Vice President Chief Financial Officer,2019,668200,2000000,18195900,6798000,1274000,,283000,29219100
+93c0a06224082216ce5ca4849b9a4399,50863,INTC,Robert Swan,Chief Executive Officer,2019,1227300,0,61722600,0,3682100,,303100,66935100
+653b73cf10039eac46fe57458d158147,50863,INTC,Venkata Renduchintala,"Executive Vice President Group President, Technology, Systems Architecture and Client Group, and Chief Engineering Officer",2019,1056800,0,21977400,0,2768400,,1082800,26885400
+f77028891ee9d59d2d61350979d78c37,50863,INTC,Navin Shenoy,"Executive Vice President General Manager, Data Platforms Group",2019,850000,0,22168700,0,1591100,,171300,24781100
+fa3fdde9605719a56095df2bb7eae370,50863,INTC,Gregory Bryant,"Executive Vice President General Manager, Client Computing Group",2019,635900,0,11670300,0,1249100,,198300,13771600
+2780c3293edf824780dfdf120a5b7b1d,50863,INTC,Steven R. Rodgers,Executive Vice President and General Counsel,2018,800000,0,12126800,0,1994300,,1290800,16211900
+a960d67c0a10e823f33f0c84efb08713,50863,INTC,Brian M. Krzanich,Former Chief Executive Officer,2018,694000,0,15313300,0,57200,,1943800,18050300
+93baeb3025ad63a91078e453d1850c6a,50863,INTC,Robert Swan,Chief Executive Officer,2018,898000,2500000,10898200,0,2240000,,170500,16706700
+69ded54f7862836bb350a0d7274c5209,50863,INTC,Robert H. Swan,"Chief Executive Officer Prior Interim CEO and Executive Vice President, CFO",2018,898000,2500000,10898200,0,2240000,,170500,16706700
+9e6b173a5abc4d51e566445f67aa8915,50863,INTC,Venkata Renduchintala,"Group President, Technology, Systems Architecture and Client Group, and Chief Engineering Officer",2018,1008000,0,7878300,0,3225000,,1020900,13132200
+52b6941617a66b40e19979450b577794,50863,INTC,Navin Shenoy,"Executive Vice President and General Manager, Data Center Group",2018,793000,0,7445000,0,1998200,,129100,10365300
+f834e5a18e6888082189c00cd53be1cb,50863,INTC,Venkata S.M. Renduchintala,"Former Executive Vice President Group President, Technology, Systems Architecture and Client Group, and Chief Engineering Officer",2018,1008000,0,7878300,0,3225000,,1020900,13132200
+c1109325b4bb7a725115c0fec07ed0a2,50863,INTC,Robert Swan,Chief Executive Officer,2017,850000,1750000,6296300,0,2193800,,24600,11114700
+8275cdba054b0f975ea5bd8d6747d456,50863,INTC,Venkata Renduchintala,"Group President, Technology, Systems Architecture and Client Group, and Chief Engineering Officer",2017,954000,2700000,6393100,0,2718000,,1053500,13818600
+f86e0f3eb368a16a60e2e1ba00976a71,50863,INTC,Navin Shenoy,"Executive Vice President General Manager, Data Center Group",2017,658300,2000000,11206300,0,1221100,0.0,204200,15289900
+d1dcb2b9cb4ba18ed167fb2b626e837a,50863,INTC,Stacy J. Smith,"Former Group President, Manufacturing, Operations and Sales",2017,833600,0,5327600,0,2292600,135000.0,241400,8830200
+ac3d78ebaea49b2b99435c437d8bce70,50863,INTC,Diane M. Bryant,"Former Group President, Data Center Group",2017,776800,0,5327600,0,2149000,10000.0,4853800,13117200
+59b762ecbd26668439554d52a8db6ad7,50863,INTC,Brian M. Krzanich,Chief Executive Officer,2017,1380000,0,13076900,0,5210000,17000.0,1860800,21544700
+13b8b9fe2db4a2729edf7d4996394e81,50863,INTC,Andy D. Bryant,Chairman of the Board,2017,500000,0,2085800,0,1159600,237000.0,90900,4073300
+eea61cf8d8d723cb62dddaf780f01c7e,50863,INTC,Robert H. Swan,Executive Vice President and Chief Financial Officer,2017,850000,1750000,6296300,0,2193800,0.0,24600,11114700
+3fce025bfd082f82e4ca940e222a950b,50863,INTC,Venkata Murthy Renduchintala,"Group President, Client and Internet of Things Businesses and System Architecture Group, and Chief Engineering Officer",2017,954000,2700000,6393100,0,2718000,0.0,1053500,13818600
+887d09a89e73eef2d3bcf9b3a37ddf37,50863,INTC,Venkata Renduchintala,"Group President, Technology, Systems Architecture and Client Group, and Chief Engineering Officer",2016,900000,2700000,13500600,0,2228400,,1118700,20447700
+62d6c5d78a690de7886e0fbbffe0ec18,50863,INTC,Brian M. Krzanich,Chief Executive Officer,2016,1250000,0,11710600,0,3699200,3000.0,2416200,19079000
+ff5e61c3bf570da57dd7947c671255f3,50863,INTC,Stacy J. Smith,"Executive Vice President, Manufacturing, Operations and Sales",2016,800000,0,4611000,0,1912400,21000.0,463500,7807900
+6662fca38436a7d26cc2716ccf717164,50863,INTC,Gregory R. Pearson,"Senior Vice President, General Manager, Sales and Marketing Group",2016,545000,0,3220600,0,713600,7000.0,60900,4547100
+1989cd794011e5794c964fe2767dd53a,50863,INTC,Robert H. Swan,Executive Vice President and Chief Financial Officer,2016,194800,2750000,8947200,0,313900,0.0,7000,12212900
+f3fce8ee2d31cfd062faaa9f238f951a,50863,INTC,Diane M. Bryant,"Executive Vice President, General Manager, Data Center Group",2016,618700,400000,4354900,0,942800,2000.0,101700,6420100
+5ab02e8bcdc2e2274e68342f9141ce63,50863,INTC,Andy D. Bryant,Chairman of the Board,2016,611800,0,2111000,0,1227800,92000.0,106400,4149000
+7471f5055f4631e1f24f579c37b7de0a,50863,INTC,Venkata Murthy Renduchintala,"Executive Vice President, President, Client and IoT Businesses and System Architecture Group",2016,900000,2700000,13500600,0,2228400,0.0,1118700,20447700
+66666dd90be012c773913ee1f3a0c42a,50863,INTC,William M. Holt,"Former Executive Vice President, General Manager, Technology and Manufacturing Group",2016,327300,0,3854700,0,593100,0.0,1229800,6004900
+1a681ae0f276ca6cba3ba5cde24c74f5,50863,INTC,Brian M. Krzanich,Chief Executive Officer,2015,1100000,0,9799000,0,3454700,,279800,14633500
+fca3d24de888067cc72ddfe8910eea8d,50863,INTC,Andy D. Bryant,Chairman of the Board,2015,790000,0,4585700,0,1456000,,132800,6964500
+441404f99c7692f97f38d5db37688a10,50863,INTC,Stacy J. Smith,Executive Vice President and Chief Financial Officer,2015,775000,0,4388900,0,1790800,,139600,7094300
+3f2cefa5b7f22d943da8eac1447a8646,50863,INTC,William M. Holt,"Executive Vice President, General Manager, Technology & Manufacturing Group",2015,650000,0,3675000,0,1081400,,95000,5526400
+9fcdba79a2994221761e4ddf720d45c9,50863,INTC,Ren e J. James,Former President,2015,850000,0,5752300,0,2021600,,184200,8808100
+887bd83a5f60b934fc24db51730ec349,50863,INTC,Brian M. Krzanich,Chief Executive Officer,2014,1000000,500,6658700,0,3354400,,161800,11197400
+0dacc6ba39ad96f644dca9dafd534bf4,50863,INTC,Ren e J. James,President,2014,850000,500,5660200,0,2600400,,181900,9367000
+889d32ac9f3f65630a241ffc6da5760e,50863,INTC,Stacy J. Smith,Executive Vice President and Chief Financial Officer,2014,673000,500,4338900,0,1663400,,106300,6965100
+487c27690dfdfa4561a0aab17866baa6,50863,INTC,William M. Holt,"Executive Vice President, General Manager, Technology & Manufacturing Group",2014,641000,500,4338900,0,1252800,,78700,6599900
+951bdeb2dd62b05a054170f32c84e35a,50863,INTC,Andy D. Bryant,Chairman of the Board,2014,790000,500,4512500,0,1870500,,102000,7542500
+0bd5e5e9403bee18dec7d268fb4d1736,50863,INTC,Andy D. Bryant,Chairman of the Board,2013,760000,0,3451000,894500,1222400,0.0,108000,6435900
+7c95cc1f29e37fe202c8b943ad96dc61,50863,INTC,Brian M. Krzanich,Chief Executive Officer,2013,887500,0,5273300,1310500,1866600,0.0,215700,9553600
+31eb73965f6dd2abe2589f83548a9f1e,50863,INTC,Paul S. Otellini,Former President and Chief Executive Officer,2013,512500,0,4000000,0,1839900,0.0,299700,6652100
+f6e843547c0babe470e5107206f29295,50863,INTC,Ren e J. James,President,2013,775000,0,4511800,1107700,1492400,0.0,142800,8029700
+9f81eba80c09f7a83d59cbdb03a497e1,50863,INTC,Stacy J. Smith,Executive Vice President and Chief Financial Officer,2013,650000,0,3711000,894500,1093100,0.0,111000,6459600
+3dda3ca8eb0548cfa54f6898694108d0,50863,INTC,Thomas M. Kilroy,"Executive Vice President, General Manager,Sales & Marketing",2013,625000,0,3005900,745400,1091400,0.0,110100,5577800
+1acd847d2b12931770177ff9a0ef6ebf,50863,INTC,David Perlmutter,Former Executive Vice President and Chief Product Officer,2013,700000,0,3711000,894500,1571300,322500.0,448300,7647600
+e67705350e462eb08ce15f8880ceea66,50863,INTC,Andy D. Bryant,Chairman of the Board,2012,760000,0,3597200,883500,1416100,109000.0,161000,6926800
+b267b1613fffa3a0bb26f5dbfac595e2,50863,INTC,Renee J. James,"Executive Vice President and General Manager, Software and Services Group",2012,650000,0,12363700,883500,1265100,24000.0,109000,15295300
+465d3f8249c2516b9ec74c3c9086a658,50863,INTC,Stacy J. Smith,Executive Vice President and Chief Financial Officer,2012,650000,0,12363700,883500,1265900,53000.0,128100,15344200
+e1b242cbef939d564b2e1592bb28052c,50863,INTC,David Perlmutter,"Executive Vice President and General Manager, Intel Architecture Group, and Chief Product Officer",2012,700000,0,12363700,883500,1800700,385900.0,337800,16471600
+70defbaa6e3e443629960f83fe46024e,50863,INTC,Brian M. Krzanich,Executive Vice President and Chief Operating Officer,2012,700000,0,12363700,883500,1800900,5000.0,115100,15868200
+c3af308968dcd50a631427132f38ee64,50863,INTC,Paul S. Otellini,President and Chief Executive Officer,2012,1200000,0,9940400,1963200,5234500,130000.0,523200,18991300
+928f0090f803c710a7bdada6f71cb186,50863,INTC,Ren e J. James,President,2012,650000,0,12363700,883500,1265100,46000.0,109000,15317300
+d92abf76e27a2c2cf146b8108101d5da,50863,INTC,Paul S. Otellini,President and Chief Executive Officer,2011,1100000,34000,7331100,1802800,6429500,,475500,17491900
+18c49acb302f11b4352702abd9bc072b,50863,INTC,Andy D. Bryant,Vice Chairman of the Board,2011,760000,15400,3251200,799500,1912000,,189200,7246300
+0f44323e12e293ec290833cea53f49d6,50863,INTC,A. Douglas Melamed,Senior Vice President and General Counsel,2011,645000,13300,2486200,611400,1540700,,152800,5517400
+f6c4d84a8af2d7cb0d918d688efab90c,50863,INTC,Stacy J. Smith,Senior Vice President and Chief Financial Officer,2011,635000,12400,3251200,799500,1386000,,133500,6387600
+97eddc5b9c848b102a3c2746ce3dcb31,50863,INTC,Total,,2011,3810000,87300,19570900,4812700,12669700,,1355700,43725600
+300a0f8be358c4e75170bb232a460150,50863,INTC,Brian M. Krzanich,Executive Vice President and Chief Operating Officer,2011,560000,10700,2486200,611400,1151800,21000.0,119200,4960300
+9c436b94249df0d63969b52f8da45d4c,50863,INTC,Renee J. James,"Executive Vice President and General Manager, Software and Services Group",2011,550000,10600,2486200,611400,1150900,69000.0,118600,4996700
+5f9a660d3d7dff0ebe39c8663832dca3,50863,INTC,David Perlmutter,"Executive Vice President and General Manager, Intel Architecture Group, and Chief Product Officer",2011,670000,12200,3251200,799500,1401500,,404700,7082400
+33f0ca87c1928d7f8eeeb6dcc3e1bcf9,50863,INTC,Ren e J. James,President,2011,550000,10600,2486200,611400,1150900,69000.0,118600,4996700
+88ec4a3a7038438a95e43e3112b018b3,50863,INTC,Renee J. James,"Executive Vice President and General Manager, Software and Services Group",2010,425000,9200,2329200,736200,1414400,23000.0,72600,5009600
+db5c9e9c4bf6fd5d37b7e7f16c8b3e67,50863,INTC,David Perlmutter,"Executive Vice President and General Manager, Intel Architecture Group",2010,506200,11200,3002300,1182900,1837000,,398100,7159300
+2d4baa264856598d5aab6bd421e976e8,50863,INTC,Total,,2010,3101200,77400,18464800,4322300,14381800,,1046900,41937000
+fc338e9e7bfca4a06bdf419261e021b3,50863,INTC,Andy D. Bryant,"Executive Vice President, Technology, Manufacturing, and Enterprise Services Chief Administrative Officer",2010,520000,12800,4601800,744600,2292300,,144600,8451100
+076cee044f0dcb93fb968058d1238536,50863,INTC,A. Douglas Melamed,Senior Vice President General Counsel,2010,600000,12600,2342200,496400,1887500,,21500,5360200
+42b5a2244fade40bb8c10d98059b6acf,50863,INTC,Stacy J. Smith,Senior Vice President Chief Financial Officer,2010,475000,10400,2281700,816200,1575000,,100600,5313900
+813480a67364a8ff26ecbbd949343088,50863,INTC,Brian M. Krzanich,Executive Vice President and Chief Operating Officer,2010,425000,9200,2329200,736200,1414500,8000.0,89400,5011500
+cf1c5c1ccdd93cafce43f9527d3794e5,50863,INTC,Paul S. Otellini,President Chief Executive Officer,2010,1000000,30400,6236800,1082200,6790000,,382100,15652500
+ceff9fc784ae4a68322cfeb124d15d2e,50863,INTC,Andy D. Bryant,"Executive Vice President, Technology, Manufacturing, and Enterprise Services, and Chief Administrative Officer",2009,500000,0,3000000,750000,1857300,178000.0,107800,6393100
+ec26a1c8507aa89ba0c7f5e8c7e94ce8,50863,INTC,Sean M. Maloney,"Executive Vice President and General Manager, Intel Architecture Group",2009,500000,0,3120700,1132600,1513100,31000.0,96500,6393900
+9443a8b1b7455e99af97dd2f5f4f06cf,50863,INTC,Stacy J. Smith,Senior Vice President Chief Financial Officer,2009,425000,0,2391700,789900,1174800,74000.0,82100,4937500
+1c476ec98f95a4fd30c8478c23286792,50863,INTC,David Perlmutter,"Executive Vice President and General Manager, Intel Architecture Group",2009,453900,0,3051400,993500,1376600,145600.0,378900,6399900
+1a5df55add23eeec823b567ef5860e75,50863,INTC,Paul S. Otellini,President Chief Executive Officer,2009,1000000,0,6684000,1182000,5251500,174000.0,290400,14581900
+d1d98062cdfcb0a058b8e0748f693bd8,50863,INTC,Total,,2009,2878900,0,18247800,4848000,11173300,602600.0,955700,38706300
+00117fdc9bc5f58b5602609716434aef,50863,INTC,Stacy J. Smith,Vice President Chief Financial Officer,2008,425000,0,313900,843300,871500,,88500,2542200
+669d91450d9974356f963d349607b3e1,50863,INTC,Sean M. Maloney,Executive Vice President Chief Sales and Marketing Officer,2008,500000,0,698100,2827600,1113300,,120100,5259100
+f9e38c166ff761831a5a551df51d8bd4,50863,INTC,Paul S. Otellini,President Chief Executive Officer,2008,1000000,0,1893300,5646400,3873300,,309600,12722600
+eaf6e3484c4c0a16a93ba05f46f89e4a,50863,INTC,Andy D. Bryant,"Executive Vice President, Finance and Enterprise Services Chief Administrative Officer",2008,500000,0,688200,2872800,1311000,,130900,5502900
+a94a7c4f796ac1137183849cc2228c5a,50863,INTC,David Perlmutter,"Executive Vice President General Manager, Mobility Group",2008,446100,0,655900,2009800,1021100,,311000,4724300
+dc5c02fde465922168b874cdcde1a9fc,50863,INTC,Total,,2008,2871100,0,4249400,14199900,8190200,,960100,30751100
+9c1f29262b016dc6ec00ca519064945d,50863,INTC,David Perlmutter,"Executive Vice President General Manager, Mobility Group",2007,357200,0,379700,1619600,1255200,,393700,4306100
+d4e27970a82c33e5ac6e1ac0122fb954,50863,INTC,Total,,2007,2286600,0,1897100,14534500,9348900,,1045700,29413500
+1b23d644a22fc427d89d3131140f7304,50863,INTC,Stacy J. Smith,Vice President Chief Financial Officer,2007,305000,0,135600,548500,953000,0.0,261700,2203800
+af4bb00a935c0f25a4e684f078ab7cec,50863,INTC,Andy D. Bryant,"Executive Vice President, Finance and Enterprise Services Chief Administrative Officer",2007,455000,0,357700,3124500,1673400,0.0,114000,5724600
+34e943384c81553c36c63e81064171ef,50863,INTC,Craig R. Barrett,Chairman of the Board,2007,358300,0,409900,3969700,1394100,88000.0,102100,6322100
+9edd45e6836e40c733a60d61ed81529a,50863,INTC,Paul S. Otellini,President Chief Executive Officer,2007,770000,0,595100,6034700,3964200,0.0,178000,11542000
+83e99c87e17571e0adcf8b900e1b8831,50863,INTC,Sean M. Maloney,Executive Vice President Chief Sales and Marketing Officer,2007,390000,0,429000,3207200,1493900,,98300,5618400
+707cfab8fe1641eb3123257a863c9790,50863,INTC,Sean M. Maloney,Executive Vice President Chief Sales and Marketing Officer,2006,290000,0,87100,4678400,1019000,,127200,6208700
+2cca5f688ab3f431a8047249e7480e42,50863,INTC,Andy D. Bryant,"Executive Vice President, Finance and Enterprise Services Chief Administrative Officer",2006,355000,0,117300,4888000,1178500,49000.0,148200,6736000
+5e62c4d6289722a2786bc915ef92b786,50863,INTC,Stacy J. Smith,Vice President Chief Financial Officer,2006,235000,0,22300,485100,430200,11000.0,57000,1240600
+4cd5873d7f922e8092738e574e4dfbcf,50863,INTC,Craig R. Barrett,Chairman of the Board,2006,463000,0,47700,6410200,1110400,36000.0,222200,8289500
+014631f08af02359b2ac269837849ca1,50863,INTC,Paul S. Otellini,President Chief Executive Officer,2006,700000,0,352000,6699000,1772700,46000.0,236700,9806400
+a8c51ed6a3b99abbda526aa7e7254313,50863,INTC,Total,,2006,1838500,0,685300,18504200,5080700,,759400,27187200
+0d94693ddd01c4682dfe54b35a75b18d,50863,INTC,David Perlmutter,"Executive Vice President General Manager, Mobility Group",2006,258500,0,106600,1753700,680300,,190300,3195500
+f0df449dda8e26dde17f3be26874a381,50863,INTC,Craig R. Barrett,Chairman of the Board,2005,610000,0,0,6308100,2727800,1898000.0,196500,11740400
+ba6b65c1ccd46bd1b003b2290cc790d2,50863,INTC,Paul S. Otellini,President Chief Executive Officer,2005,608300,0,0,7600800,2683400,1171000.0,158500,12222000
+988dafb7da9bc450139a9e6e85ea2a95,50863,INTC,Andy D. Bryant,"Executive Vice President, Finance and Enterprise Services Chief Administrative Officer",2005,330000,0,0,4963700,1765000,1235000.0,100300,8394000
+9498eb6d8c1ff4ea6c97478e0d19a213,50863,INTC,Stacy J. Smith,Vice President Chief Financial Officer,2005,202000,0,0,450500,580100,371000.0,37000,1640600

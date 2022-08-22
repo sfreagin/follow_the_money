@@ -1,0 +1,105 @@
+id,cik,ticker,name,position,year,salary,bonus,stockAwards,optionAwards,nonEquityIncentiveCompensation,changeInPensionValueAndDeferredEarnings,otherCompensation,total
+f1223967521e52f4c073d4dab740aaaa,1124610,VMW,Raghu Raghuram,CEO,2022,899451,0,30243585,0,1201071,0.0,0,32344106
+c919025b877afce67053339c13ddd463,1124610,VMW,Jean Pierre Brulard,"EVP, Worldwide Sales",2022,749725,0,11034640,0,749725,0.0,198199,12732289
+28fecc6e43305ac3881568d75d8ad279,1124610,VMW,Patrick Gelsinger,Former CEO,2022,38462,0,0,0,0,0.0,0,38462
+efe619b33c4054f7d553a57e66535e63,1124610,VMW,Zane Rowe,CFO and EVPFormer Interim CEO,2022,1166484,0,23138352,0,1373149,0.0,9000,25686985
+d41aeb863d8a51e2ec08f5b86ded6f94,1124610,VMW,Amy Fliegelman Olli,"EVP, General Counsel and Secretary",2022,600000,0,6269370,0,660000,0.0,9000,7538370
+aee18db51236678e54bcdc9313d4762d,1124610,VMW,Sumit Dhawan,President,2022,732692,75412,16419214,0,807774,0.0,9000,18044092
+70344d5abcff5c982caf7e20df0ecf51,1124610,VMW,Sanjay Poonen,"Former COO, Customer Operations",2022,363462,0,11239865,0,0,0.0,1446467,13049794
+a8e096dabb3bc9f143ddb906e391333c,1124610,VMW,Zane Rowe,CFO and EVP,2021,698438,0,13776553,0,844264,,4500,15323755
+4fdcaad25d2089de3960e647166adbee,1124610,VMW,Amy Fliegelman Olli,"EVP, General Counsel and Secretary",2021,579167,0,9649269,0,705080,,4500,10938016
+be88c5d0122317ed54d10a23d3d51334,1124610,VMW,Rangarajan Raghu Raghuram,"COO, Products and Cloud Services",2021,651875,0,12545927,0,787980,,0,13985782
+71e9d47be81904a0a4f629bd2dd063dd,1124610,VMW,Patrick Gelsinger,CEO,2021,885417,0,15654137,0,0,,2250,16541804
+d11ac9f4c7d227b0d282d5d9a7664dd8,1124610,VMW,Sanjay Poonen,"COO, Customer Operations",2021,651875,0,12038049,0,787980,,6301,13484205
+83f86bf8f5c16ac0da34089c8d71b494,1124610,VMW,Raghu Raghuram,CEO,2021,651875,0,12545927,0,787980,0.0,0,13985782
+b9d3aad5ec9affb5b1bebae0823106f6,1124610,VMW,Rajiv Ramaswami,"COO, Products and Cloud Services",2020,700000,0,11621979,0,600250,,24663,12946892
+7e99a9495e3ce7e274cbbc5599812ddb,1124610,VMW,Zane Rowe,CFO and Executive Vice President,2020,750000,0,17780998,0,680625,,248712,19460335
+3f70b568fd8834e8b5f9f2bb3043ab81,1124610,VMW,Rangarajan Raghu Raghuram,"COO, Products and Cloud Services",2020,700000,0,12732973,0,582750,,0,14015723
+fd5241876c983ac55717b5ca5c750c50,1124610,VMW,Sanjay Poonen,"COO, Customer Operations",2020,700000,0,12082453,0,600250,,26155,13408858
+a1eb128d09156ca77affcf3f0f6cc10f,1124610,VMW,Raghu Raghuram,CEO,2020,700000,0,12732973,0,582750,0.0,0,14015723
+5c9e1b58d9394a9112418771888ad3f5,1124610,VMW,Patrick Gelsinger,CEO,2020,1000000,0,40010184,0,1511875,,27666,42549725
+4368d9fc156a3229a380bea833bffccd,1124610,VMW,Sanjay Poonen,"COO, Customer Operations Transition",2019,700000,0,7885473,0,875000,0.0,6750,9467223
+e90a0ea40957c52ac7cfe9c14d1ecaac,1124610,VMW,Maurizio Carli,"Executive Vice President, Worldwide Sales and Services Transition",2019,823213,0,6762559,0,1033911,0.0,2974326,11594009
+0f989576e213cdc0eefaeb1c58a73adc,1124610,VMW,Patrick Gelsinger,CEO Transition,2019,1000000,0,20196095,0,2366346,0.0,6750,23569191
+b53805f035415312b11dc64cebaa627d,1124610,VMW,Rajiv Ramaswami,"COO, Products and Cloud Services",2019,700000,0,7619367,0,840000,,6750,9166117
+cabd2b7007d4cd57a5f63c6597224fb7,1124610,VMW,Zane Rowe,CFO and Executive Vice President Transition,2019,750000,0,10414622,0,956250,0.0,6750,12127622
+8199ac82de87ddde9c18df76bfc0e997,1124610,VMW,Rangarajan Raghu Raghuram,"COO, Products and Cloud Services Transition",2019,700000,75000,9109305,0,857500,0.0,0,10741805
+88d6488a42baadbcae32a915e988beec,1124610,VMW,Patrick Gelsinger,CEO,2018,1000000,0,14709988,0,1945861,,19260,17675109
+c664021dd24c1dc1aa810924293e1601,1124610,VMW,Sanjay Poonen,"COO, Customer Operations",2018,700000,0,7347712,0,855700,,1500,8904912
+ad3240002000dd5c7687703737ccd2fe,1124610,VMW,Maurizio Carli,"Executive Vice President,Worldwide Sales and Services",2018,714798,0,16621735,0,991902,,553782,18882218
+117a3f1dd18fc8052baa98b622275212,1124610,VMW,Rangarajan Raghu Raghuram,"COO, Products and Cloud Services",2018,700000,0,8040554,0,855700,,0,9596254
+bd07728c09fc3eaef0c83499fabe3ade,1124610,VMW,Zane Rowe,CFO and Executive Vice President,2018,750000,0,7413847,0,954227,,6000,9124074
+cc1281a3b2187d16525bc31b3f82d7d9,1124610,VMW,Rajiv Ramaswami,"COO, Products and Cloud Services",2018,700000,0,5239864,0,855700,,10513,6806077
+5b59c68f7f719c8d576fae683adf5a21,1124610,VMW,Sanjay Poonen,"COO, Customer Operations",2016,621250,0,10840103,0,637826,,3142,12102321
+a5dab8b68c8ad47210f1b7cbc1284f9a,1124610,VMW,Rangarajan Raghu Raghuram,"COO, Products and Cloud Services",2016,621250,0,10592707,0,731294,,0,11945251
+083d5b161ebbe143b2392a3186dbf7dd,1124610,VMW,Zane Rowe,CFO and Executive Vice President,2016,630770,0,5150990,0,761466,,7642,6550868
+3695bbc7c664d7502fad1aec946cde00,1124610,VMW,Rajiv Ramaswami,"COO, Products and Cloud Services",2016,504168,1597248,20834736,0,0,,0,22936152
+1bf8c23bd633e0ca9bbbc2742c4b5da0,1124610,VMW,Jonathan Chadwick,"Former CFO, COO and Executive Vice President",2016,173885,0,0,0,0,,1500,175385
+b74f6f8ab6e0dda149a3c50690c9068d,1124610,VMW,Patrick Gelsinger,CEO,2016,1000000,0,12052249,0,1783125,,6000,14841374
+0e7618aaefee60c74d80d17e8b4b43ad,1124610,VMW,Patrick Gelsinger,Chief Executive Officer,2015,1000000,650,11904314,0,1443750,,10479,14359193
+7d0a3ca3da676c8a64b39599991b2c65,1124610,VMW,Sanjay Poonen,"Executive Vice President and General Manager, End-User Computing and Head of Global Marketing",2015,605000,650,3034494,0,668750,,0,4308894
+bdb145bb6c01bd2d35cb562c07c3b2a6,1124610,VMW,Jonathan Chadwick,"Chief Financial Officer, Chief Operating Officer and Executive Vice President",2015,680000,650,6536808,0,628375,,6000,7851833
+c6242dd908ba708c0b93456900816932,1124610,VMW,Rangarajan Raghu Raghuram,"Executive Vice President and General Manager, Software-Defined Data Center",2015,605000,650,6321816,0,585250,,0,7512716
+eb2fd854835c55adf72bb1cc23772463,1124610,VMW,Carl Eschenbach,President and Chief Operating Officer,2015,730000,650,14944821,0,696875,,22323,16364669
+64b5c7ebf1721a789a3f0b428fc5d296,1124610,VMW,Jonathan Chadwick,"Chief Financial Officer, Chief Operating Officer and Executive Vice President",2014,650000,0,1527791,969272,646613,,7372,3801048
+f1bdb44a297fd9c88c1bb70d267f3463,1124610,VMW,Sanjay Poonen,"Executive Vice President and General Manager, End-User Computing",2014,600000,0,916636,581552,599850,,2400,2700438
+28e913069de507c2dfe865d99e0ba865,1124610,VMW,Carl M. Eschenbach,President and Chief Operating Officer,2014,712500,2300000,1833368,1163131,708288,,22152,6739439
+3f5e95afa5c6e1369351730f31f6d130,1124610,VMW,Patrick Gelsinger,Chief Executive Officer,2014,925000,0,3819670,2423179,1322274,,49497,8539620
+74dc846944da0c25e62a8ac2bde7be54,1124610,VMW,Rangarajan Raghu Raghuram,"Executive Vice President and General Manager, Software-Defined Data Center",2014,550000,0,1222213,775412,551850,,0,3099475
+28ac85d27c20857e61fc8814dfc5ebec,1124610,VMW,Carl Eschenbach,President and Chief Operating Officer,2014,712500,2300000,1833368,1163131,708288,,22152,6739439
+28e835ed9fc07bab43703c8d3868b929,1124610,VMW,Patrick P. Gelsinger,Chief Executive Officer,2014,925000,0,3819670,2423179,1322274,,49497,8539620
+9927ff1b68146d1848929454bf1b6586,1124610,VMW,Jonathan C. Chadwick,"Chief Financial Officer, Chief Operating Officer and Executive Vice President",2014,650000,0,1527791,969272,646613,,7372,3801048
+2e09d28596480f54b1e2c81cf6e20abb,1124610,VMW,Patrick Gelsinger,Chief Executive Officer,2013,850001,0,9444525,2337879,1284318,,75323,13992046
+29ca416ed3151c7dd1ef1f0d54cea513,1124610,VMW,Jonathan Chadwick,"Chief Financial Officer, Chief Operating Officer and Executive Vice President",2013,625000,0,3305528,818243,697969,,8142,5454882
+a98d886fe1ee27d5277cff9445f29fcf,1124610,VMW,Carl M. Eschenbach,President and Chief Operating Officer,2013,693733,0,7083373,1753409,774616,0.0,15715,10320846
+c1912cb5516f5880cabc4e453869c372,1124610,VMW,Patrick P. Gelsinger,Chief Executive Officer,2013,850001,0,9444525,2337879,1284318,0.0,75323,13992046
+191fcfff5ee91bee88d12d14ca54f194,1124610,VMW,Jonathan C. Chadwick,Chief Financial Officer and Executive Vice President,2013,625000,0,3305528,818243,697969,0.0,8142,5454882
+228889047b13ee8af23be6744a088d1e,1124610,VMW,Sanjay Poonen,Executive Vice President and General Manager End-User Computing,2013,245386,600000,5037323,4544271,297357,0.0,0,10724337
+e67a9e4b9d47ce178f5516b7f3e24e03,1124610,VMW,Carl Eschenbach,President and Chief Operating Officer,2013,693733,0,7083373,1753409,774616,,15715,10320846
+7cccb3460d9aeb960d3a51114eef38ba,1124610,VMW,Rangarajan Raghu Raghuram,"Executive Vice President and General Manager, Software-Defined Data Center",2013,487466,0,2833299,701344,544156,0.0,0,4566265
+dc0b72dcc134d5aa2c5fd6a657fabad5,1124610,VMW,Carl M. Eschenbach,President and Chief Operating Officer,2012,661378,0,18966432,0,740032,,21044,20388886
+217673c1654f28e230de7289f92df473,1124610,VMW,Mark S. Peek,"Former Chief Financial Officer and Co-President, Business Operations",2012,252308,0,6643933,0,0,,4142,6900382
+a15b370e74fe95977842cc8d11f8ea2b,1124610,VMW,T. Tod Nielsen,"Former Co-President, Application Platform",2012,600000,0,2235408,0,332625,,7642,3175675
+e6e62e4eb3a467138d16ab84f56cb032,1124610,VMW,Jonathan C. Chadwick,Chief Financial Officer and Executive Vice President,2012,99360,155883,12641071,0,0,,1250,12897564
+a455fb9ab22ec7c94205dde416ef86cd,1124610,VMW,Patrick P. Gelsinger,Chief Executive Officer,2012,286604,0,13131239,0,432441,,105055,13955339
+52ad0d429a6eaa1ab8dac91186708808,1124610,VMW,Betsy B. Sutter,"Senior Vice President, Human Resources",2012,400000,0,4439622,0,440500,,7641,5287763
+81a630ee99a86a6d9dabb74c7d3f7e7a,1124610,VMW,S. Dawn Smith,"Senior Vice President, General Counsel, Chief Compliance Officer and Secretary",2012,425000,0,1117655,0,468031,,4500,2015186
+83d257fb5c2f6052ac4661573412735b,1124610,VMW,Paul A. Maritz,Former Chief Executive Officer,2012,500000,0,0,0,415781,,150,915931
+56d1dc69eeb7c891058fa61c04e18898,1124610,VMW,Carl. M. Eschenbach,Chief Operating Officer and Co-President,2011,568750,0,4982830,0,638594,,14589,6204763
+ac2697a6bfcc39e710df9a2692b2e70d,1124610,VMW,T. Tod Nielsen,"Co-President, Application Platform",2011,600000,0,0,0,652500,,4000,1256500
+69dc8f037feaee69e5e5b4b2f5b1ae52,1124610,VMW,S. Dawn Smith,"Senior Vice President, General Counsel, Chief Compliance Officer and Secretary",2011,410000,0,0,0,334407,,4000,748407
+bdc6f148125a4534d3a63b02293de9b0,1124610,VMW,Paul A. Maritz,Chief Executive Officer,2011,750000,0,0,0,815625,,0,1565625
+8d0f738738ad9bd15510797d2238c346,1124610,VMW,Richard J. McAniff,Strategic Advisor to the CEO,2011,450000,226845,0,0,247500,,0,924345
+e6f7e21a4123861cdb326b9b7dff09e9,1124610,VMW,Mark S. Peek,"Chief Financial Officer Co-President, Business Operations",2011,475000,0,0,0,516564,,4000,995564
+47ffc3d8e5cfb6b03dd1f6026348e7eb,1124610,VMW,Carl M. Eschenbach,President and Chief Operating Officer,2011,568750,0,4982830,0,638594,,14589,6204763
+0793c027446f87ba86745560bf98fd54,1124610,VMW,Carl. M. Eschenbach,Chief Operating Officer and Co-President,2010,550000,0,3866370,0,649000,,10516,5075886
+f54423ff38db33f9879e591f2443f3a2,1124610,VMW,Paul A. Maritz,Chief Executive Officer,2010,750000,0,3866370,0,885000,0.0,0,5501370
+cc9f3c9e74e8b7900681b4022a9fc08b,1124610,VMW,T. Tod Nielsen,"Co-President, Applications Platform",2010,600000,0,3866370,0,708000,0.0,7940,5182310
+fd72585084d7ed5a375c7b8c49f00d43,1124610,VMW,S. Dawn Smith,"Senior Vice President, General Counsel, Chief Compliance Officer and Secretary",2010,407500,0,1449840,0,358163,0.0,3500,2219003
+f50d48700c2798d3ab10144f2ccd5852,1124610,VMW,Mark S. Peek,"Chief Financial Officer and Co-President, Business Operations",2010,456250,0,3866370,0,513625,0.0,3500,4839745
+83bf220bcd3b14bad893fd639e676f2e,1124610,VMW,Carl M. Eschenbach,"Co-President, Customer Operations",2010,550000,0,3866370,0,649000,0.0,10516,5075886
+2cbb50a01a8e091f29118e6ff0025056,1124610,VMW,Richard J. McAniff,"Co-President, Products and Chief Development Officer",2010,410000,0,3866370,0,471300,0.0,0,4747670
+a0b8411e19d7c11d2d1c87896da1c813,1124610,VMW,Carl. M. Eschenbach,Chief Operating Officer and Co-President,2009,622981,50000,0,475775,678425,,750,1827931
+d0ed043f720d6fd456303ea20b980e46,1124610,VMW,Mark S. Peek,Chief Financial Officer,2009,418654,0,0,951550,443400,,21750,1835354
+98c1600850d158a854d4066006f615a3,1124610,VMW,S. Dawn Smith,"Senior Vice President, General Counsel and Corporate Secretary",2009,104615,148038,1576750,1197792,113613,,0,3140808
+99b35fb9cdeab06b13a22bee883b83cf,1124610,VMW,T. Tod Nielsen,Chief Operating Officer,2009,612829,120000,5018000,3155960,733470,,265576,9905835
+1b2cbbc274dfc7f659f7f178efe18315,1124610,VMW,Carl M. Eschenbach,"Co-President, Customer Operations",2009,622981,50000,0,475775,678425,0.0,750,1827931
+6dbb1566675f60d9551847a011bee68a,1124610,VMW,Paul A. Maritz,"President, Chief Executive Officer and Director",2009,778518,0,0,0,925125,,31624,1735267
+5467c4d6cb54528c979db9fda3b2c750,1124610,VMW,Richard J. McAniff,Executive Vice President and Chief Development Officer,2009,308625,550000,7059400,2250031,393800,,18822,10580678
+9d9fe376330e7897106f4816a793e6c2,1124610,VMW,Paul A. Maritz,"President, Chief Executive Officer and Director",2008,358178,0,0,26060171,405557,,15944,26839850
+64ba6026085566d1683b5ba976d50c11,1124610,VMW,Carl M. Eschenbach,Executive Vice President of Worldwide Field Operations,2008,525000,0,935105,870081,244188,,16943,2591317
+7167e0671cba28fb39e6a5794100e5d6,1124610,VMW,Rashmi Garde,Vice President and General Counsel,2008,257500,0,75503,414885,113181,,3000,864069
+b3230a494d4f4f1296509c3e18ad9e07,1124610,VMW,Paul Maritz,"President, Chief Executive Officer and Director",2008,358178,0,0,3906837,405557,,15944,4686516
+49914f7510bacce7106e9b1b3fb2cda3,1124610,VMW,Dev Richard Sarwal,former Executive Vice President Research & Development,2008,379359,0,0,0,0,,26900,406259
+f81e31c442a7b55ce100579d9482666d,1124610,VMW,Mark S. Peek,Senior Vice President and Chief Financial Officer,2008,400000,0,3322530,497133,195350,,87000,4502013
+2345d82e5279258b94852a550f1838a0,1124610,VMW,Diane B. Greene,"former President, Chief Executive Officer and Director",2008,449038,0,327259,1555442,0,,537481,2869220
+f896af8b29d836852e31e2165b2662c3,1124610,VMW,Mark S. Peek,Chief Financial Officer,2007,283333,99314,1882380,281021,188216,0.0,103340,2837604
+ac22dc44ab62337a1f994247b80b4d65,1124610,VMW,Carl M. Eschenbach,Executive Vice President ofWorldwide FieldOperations,2007,487500,37500,1272829,566775,266282,0.0,89465,2720351
+4a69cee56a52ed5f0582594f81cfa1b5,1124610,VMW,Rashmi Garde,Vice President and General Counsel,2007,257500,10000,567709,241935,90306,0.0,3000,1170450
+132bf50b387cf89794bf3339bbbc97ca,1124610,VMW,Diane B. Greene,"President, ChiefExecutive Officerand Director",2007,583333,0,4591365,2447870,940085,0.0,0,8562653
+b61abced7f80d268f5a3debdb0ca839c,1124610,VMW,Thomas J. Jurewicz,Vice President of Finance,2007,230000,0,138628,138347,80662,0.0,3000,590637
+6f536d416f1d169972eec7e4f025a8d4,1124610,VMW,Diane B. Greene,"President, ChiefExecutive Officerand Director",2006,350000,0,4222824,1394567,449708,0.0,0,6417099
+63c151ac34733eb8eb8660ac6ecab7cb,1124610,VMW,Rashmi Garde,Vice President and General Counsel,2006,250000,0,326027,17150,89194,0.0,3000,685371
+9a2da2c66e58c48733d3b0a6a2159e19,1124610,VMW,Mark S. Peek,Chief Financial Officer,2006,0,0,0,0,0,0.0,0,0
+e35d45dbd1a56050f34fb219d5f5a86a,1124610,VMW,Thomas J. Jurewicz,Vice President of Finance,2006,207500,0,203595,20963,68959,0.0,3000,504017
+7a184be69f2ff427ed317484d43b67a2,1124610,VMW,Carl M. Eschenbach,Executive Vice President ofWorldwide FieldOperations,2006,355000,112500,921534,134593,319781,0.0,90345,1933753
