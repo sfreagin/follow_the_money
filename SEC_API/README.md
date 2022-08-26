@@ -2,6 +2,11 @@
 
 Notes to self:
 
+* Find the source code which scrapes the *Summary Compensation Table* and see if it can be extended to the other pay tables
+    * Grants of Plan-Based Awards
+    * Options Exercised and Stock Vested
+    * Outstanding Awards
+
 * Navigate the 10-K (and 10-Q, etc.) dictionaries to pull the relevant financial information into DataFrames
   * For example, figure out the appropriate dictionary keys for isolating and labeling the values for "Revenue" and "Outstanding Shares" and "Current Assets" and so on
 
