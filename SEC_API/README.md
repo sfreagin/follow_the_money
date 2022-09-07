@@ -15,3 +15,6 @@ Notes to self:
   * https://blog.jcharistech.com/2020/01/08/how-to-convert-json-to-sql-format-in-python/
   * https://stackoverflow.com/questions/40450591/converting-json-to-sql-table
   * https://stackoverflow.com/questions/48604563/creating-a-data-structure-from-json-using-python
+
+* Same for TXT files:
+    * https://stackoverflow.com/questions/40546485/import-multiple-delimited-text-files-into-a-sql-server-database-and-automaticall
