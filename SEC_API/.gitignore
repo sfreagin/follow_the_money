@@ -2,7 +2,7 @@
 config.py
 
 #don't know what this is but I want to hide it
-/__pycache__
+__pycache__/
 
 #ugly
-/.ipynb_checkpoints
+.ipynb_checkpoints/
