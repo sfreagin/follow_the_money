@@ -1,0 +1,27 @@
+Mistakes:
+
+Year: 2008
+Ticker: PEPO
+Executive: Deborah K. Hill
+Field: salary
+Incorrect Amount:
+Correct Amount:
+URL: 
+
+
+Year: 2020
+Ticker: CMPR
+Executive: Maarten Wensveen
+Field: salary
+Incorrect Amount: 53076942
+Correct Amount: 530769.42
+URL: https://www.sec.gov/Archives/edgar/data/1262976/000126297620000079/def14afor2020agm.htm
+
+
+Year: 
+Ticker: 
+Executive: 
+Field: 
+Incorrect Amount:
+Correct Amount:
+URL: 
