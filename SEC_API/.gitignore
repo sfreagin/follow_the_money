@@ -5,4 +5,4 @@ config.py
 __pycache__/
 
 #ugly
-.ipynb_checkpoints/
+.ipynb_checkpoints
