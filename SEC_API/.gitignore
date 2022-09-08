@@ -1,7 +1,8 @@
-
-#ignore the configuration file which stores my API key
+#configuration
 config.py
 
+#don't know what this is but I want to hide it
 __pycache__
 
+#ugly
 .ipynb_checkpoints
